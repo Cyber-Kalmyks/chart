@@ -1,0 +1,11 @@
+.table {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+}
+.table p {
+    outline: 0.1px solid black;
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+}
+
